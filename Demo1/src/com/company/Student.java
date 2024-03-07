@@ -9,7 +9,7 @@ public class Student {
 
  public  void m1()
  {
-	System.out.println("Finally , become Java Developer");
+	System.out.println("Finally , become Java Developer with 50LPA.");
  }
  
  public void m2()
