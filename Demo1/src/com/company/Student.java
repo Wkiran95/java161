@@ -12,5 +12,9 @@ public class Student {
 	System.out.println("Finally , become Java Developer");
  }
  
+ public void m2()
+ {
+	 System.out.println("Wecome to Cjc...!");
+ }
 	
 }
