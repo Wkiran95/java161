@@ -5,10 +5,12 @@ public class Student {
 	
 	 System.out.println("Working with github..!");
 	 
-	 
-	 
-	 
 }
-	
+
+ public  void m1()
+ {
+	System.out.println("Finally , become Java Developer");
+ }
+ 
 	
 }
